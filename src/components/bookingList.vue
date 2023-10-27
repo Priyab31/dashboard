@@ -90,7 +90,7 @@ export default {
   },
   methods: {
     getImageUrl(profilePic) {
-      return require('../../static/images/' + profilePic);
+      return require('../../static/images/' + profilePic); //return image url
     },
   },
 };
