@@ -85,7 +85,7 @@ export default {
           date: '01.12-01.15',
           paid: true,
         },
-      ],
+      ], // bookings array
     };
   },
   methods: {
